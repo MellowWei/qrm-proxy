@@ -1,0 +1,9 @@
+{
+  "name": "qrm-proxy",
+  "version": "1.0.0",
+  "description": "427Hz argument audit proxy for QualiaRhythmMatrix",
+  "type": "module",
+  "engines": {
+    "node": ">=18.x"
+  }
+}
